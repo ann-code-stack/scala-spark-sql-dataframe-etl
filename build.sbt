@@ -1,4 +1,4 @@
-name := "spark2-ml-workshop"
+name := "scala-spark-sql-dataframe-etl"
 
 version := "1.0"
 val sparkVersion= "2.2.0"
