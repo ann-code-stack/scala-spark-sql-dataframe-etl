@@ -1,2 +1,3 @@
-# scala-spark2-etl-sql-workshop
-For ETL and SQL using Spark
+# scala-spark-sql-dataframe-etl
+
+Extract Transform Load- ETL powered by DataFrame and Spark SQL
